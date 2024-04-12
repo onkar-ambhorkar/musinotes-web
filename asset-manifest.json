@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/musinotes-web/static/css/main.48a10235.css",
-    "main.js": "/musinotes-web/static/js/main.c729ad7e.js",
+    "main.css": "/musinotes-web/static/css/main.d448ef8a.css",
+    "main.js": "/musinotes-web/static/js/main.12995f2a.js",
     "static/js/453.7d218179.chunk.js": "/musinotes-web/static/js/453.7d218179.chunk.js",
     "index.html": "/musinotes-web/index.html",
-    "main.48a10235.css.map": "/musinotes-web/static/css/main.48a10235.css.map",
-    "main.c729ad7e.js.map": "/musinotes-web/static/js/main.c729ad7e.js.map",
+    "main.d448ef8a.css.map": "/musinotes-web/static/css/main.d448ef8a.css.map",
+    "main.12995f2a.js.map": "/musinotes-web/static/js/main.12995f2a.js.map",
     "453.7d218179.chunk.js.map": "/musinotes-web/static/js/453.7d218179.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.48a10235.css",
-    "static/js/main.c729ad7e.js"
+    "static/css/main.d448ef8a.css",
+    "static/js/main.12995f2a.js"
   ]
 }
